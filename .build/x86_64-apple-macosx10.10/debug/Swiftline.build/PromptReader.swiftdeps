@@ -1,0 +1,95 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PromptReader"
+- "ConsolePromptReader"
+- "DummyPromptReader"
+provides-nominal:
+- "9Swiftline12PromptReaderP"
+- "9Swiftline19ConsolePromptReaderC"
+- "9Swiftline17DummyPromptReaderC"
+provides-member:
+- ["9Swiftline12PromptReaderP", ""]
+- ["9Swiftline19ConsolePromptReaderC", ""]
+- ["9Swiftline17DummyPromptReaderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "ConsolePromptReader"
+- "DummyPromptReader"
+- "PromptReader"
+- "String"
+- !private "readLine"
+depends-member:
+- !private ["Sa", "removeFirst"]
+- !private ["s23BidirectionalCollectionP", "removeFirst"]
+- !private ["s7CVarArgP", "removeFirst"]
+- !private ["s10CollectionP", "removeFirst"]
+- ["9Swiftline19ConsolePromptReaderC", "String"]
+- ["9Swiftline19ConsolePromptReaderC", "deinit"]
+- ["9Swiftline19ConsolePromptReaderC", "init"]
+- ["9Swiftline19ConsolePromptReaderC", "read"]
+- !private ["9Swiftline19ConsolePromptReaderC", "readLine"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFirst"]
+- !private ["s17CustomReflectableP", "removeFirst"]
+- !private ["s23CustomStringConvertibleP", "removeFirst"]
+- !private ["s9DecodableP", "removeFirst"]
+- ["9Swiftline17DummyPromptReaderC", "String"]
+- ["9Swiftline17DummyPromptReaderC", "deinit"]
+- ["9Swiftline17DummyPromptReaderC", "init"]
+- ["9Swiftline17DummyPromptReaderC", "parametersToReturn"]
+- ["9Swiftline17DummyPromptReaderC", "read"]
+- !private ["s9EncodableP", "removeFirst"]
+- !private ["s9EquatableP", "removeFirst"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeFirst"]
+- !private ["s17MutableCollectionP", "removeFirst"]
+- ["9Swiftline12PromptReaderP", "String"]
+- ["9Swiftline12PromptReaderP", ""]
+- !private ["9Swiftline12PromptReaderP", "parametersToReturn"]
+- ["9Swiftline12PromptReaderP", "read"]
+- !private ["9Swiftline12PromptReaderP", "readLine"]
+- !private ["s22RandomAccessCollectionP", "removeFirst"]
+- !private ["s26RangeReplaceableCollectionP", "removeFirst"]
+- !private ["s8SequenceP", "removeFirst"]
+- !private ["s14_ArrayProtocolP", "removeFirst"]
+- !private ["s24_DestructorSafeContainerP", "removeFirst"]
+- !private ["s21_ObjectiveCBridgeableP", "removeFirst"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- "9Swiftline19ConsolePromptReaderC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- "9Swiftline17DummyPromptReaderC"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s17MutableCollectionP"
+- "9Swiftline12PromptReaderP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "e4eb6c6b0330a127adc1ac47df83ce89"

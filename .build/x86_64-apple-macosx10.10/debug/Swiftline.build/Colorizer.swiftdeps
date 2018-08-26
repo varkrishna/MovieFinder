@@ -1,0 +1,325 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Colorizer"
+provides-nominal:
+- "9Swiftline9ColorizerC"
+provides-member:
+- ["SS", ""]
+- ["9Swiftline9ColorizerC", ""]
+- ["SS", "f"]
+- ["SS", "foreground"]
+- ["SS", "b"]
+- ["SS", "background"]
+- ["SS", "s"]
+- ["SS", "style"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Colorizer"
+- "CustomStringConvertible"
+- "String"
+- "StringStyle"
+depends-member:
+- !private ["9Swiftline18ArgConvertibleTypeP", "StringBackgroundColorizer"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "StringForegroundColorizer"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "StringStyleColorizer"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "background"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "foreground"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "style"]
+- !private ["s23BidirectionalCollectionP", "StringBackgroundColorizer"]
+- !private ["s23BidirectionalCollectionP", "StringForegroundColorizer"]
+- !private ["s23BidirectionalCollectionP", "StringStyleColorizer"]
+- !private ["s23BidirectionalCollectionP", "background"]
+- !private ["s23BidirectionalCollectionP", "foreground"]
+- !private ["s23BidirectionalCollectionP", "style"]
+- !private ["s7CVarArgP", "StringBackgroundColorizer"]
+- !private ["s7CVarArgP", "StringForegroundColorizer"]
+- !private ["s7CVarArgP", "StringStyleColorizer"]
+- !private ["s7CVarArgP", "background"]
+- !private ["s7CVarArgP", "foreground"]
+- !private ["s7CVarArgP", "style"]
+- !private ["s10CollectionP", "StringBackgroundColorizer"]
+- !private ["s10CollectionP", "StringForegroundColorizer"]
+- !private ["s10CollectionP", "StringStyleColorizer"]
+- !private ["s10CollectionP", "background"]
+- !private ["s10CollectionP", "foreground"]
+- !private ["s10CollectionP", "style"]
+- ["9Swiftline9ColorizerC", "String"]
+- ["9Swiftline9ColorizerC", "StringStyle"]
+- ["9Swiftline9ColorizerC", "color"]
+- ["9Swiftline9ColorizerC", "deinit"]
+- ["9Swiftline9ColorizerC", "description"]
+- ["9Swiftline9ColorizerC", "init"]
+- ["9Swiftline9ColorizerC", "string"]
+- !private ["s10ComparableP", "StringBackgroundColorizer"]
+- !private ["s10ComparableP", "StringForegroundColorizer"]
+- !private ["s10ComparableP", "StringStyleColorizer"]
+- !private ["s10ComparableP", "background"]
+- !private ["s10ComparableP", "foreground"]
+- !private ["s10ComparableP", "style"]
+- !private ["s28CustomDebugStringConvertibleP", "StringBackgroundColorizer"]
+- !private ["s28CustomDebugStringConvertibleP", "StringForegroundColorizer"]
+- !private ["s28CustomDebugStringConvertibleP", "StringStyleColorizer"]
+- !private ["s28CustomDebugStringConvertibleP", "background"]
+- !private ["s28CustomDebugStringConvertibleP", "foreground"]
+- !private ["s28CustomDebugStringConvertibleP", "style"]
+- !private ["s29CustomPlaygroundQuickLookableP", "StringBackgroundColorizer"]
+- !private ["s29CustomPlaygroundQuickLookableP", "StringForegroundColorizer"]
+- !private ["s29CustomPlaygroundQuickLookableP", "StringStyleColorizer"]
+- !private ["s29CustomPlaygroundQuickLookableP", "background"]
+- !private ["s29CustomPlaygroundQuickLookableP", "foreground"]
+- !private ["s29CustomPlaygroundQuickLookableP", "style"]
+- !private ["s17CustomReflectableP", "StringBackgroundColorizer"]
+- !private ["s17CustomReflectableP", "StringForegroundColorizer"]
+- !private ["s17CustomReflectableP", "StringStyleColorizer"]
+- !private ["s17CustomReflectableP", "background"]
+- !private ["s17CustomReflectableP", "foreground"]
+- !private ["s17CustomReflectableP", "style"]
+- !private ["s23CustomStringConvertibleP", "StringBackgroundColorizer"]
+- !private ["s23CustomStringConvertibleP", "StringForegroundColorizer"]
+- !private ["s23CustomStringConvertibleP", "StringStyleColorizer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "background"]
+- !private ["s23CustomStringConvertibleP", "color"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "foreground"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "style"]
+- !private ["s9DecodableP", "StringBackgroundColorizer"]
+- !private ["s9DecodableP", "StringForegroundColorizer"]
+- !private ["s9DecodableP", "StringStyleColorizer"]
+- !private ["s9DecodableP", "background"]
+- !private ["s9DecodableP", "foreground"]
+- !private ["s9DecodableP", "style"]
+- !private ["s9EncodableP", "StringBackgroundColorizer"]
+- !private ["s9EncodableP", "StringForegroundColorizer"]
+- !private ["s9EncodableP", "StringStyleColorizer"]
+- !private ["s9EncodableP", "background"]
+- !private ["s9EncodableP", "foreground"]
+- !private ["s9EncodableP", "style"]
+- !private ["s9EquatableP", "StringBackgroundColorizer"]
+- !private ["s9EquatableP", "StringForegroundColorizer"]
+- !private ["s9EquatableP", "StringStyleColorizer"]
+- !private ["s9EquatableP", "background"]
+- !private ["s9EquatableP", "foreground"]
+- !private ["s9EquatableP", "style"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringBackgroundColorizer"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringForegroundColorizer"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringStyleColorizer"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "background"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "foreground"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "style"]
+- !private ["s26ExpressibleByStringLiteralP", "StringBackgroundColorizer"]
+- !private ["s26ExpressibleByStringLiteralP", "StringForegroundColorizer"]
+- !private ["s26ExpressibleByStringLiteralP", "StringStyleColorizer"]
+- !private ["s26ExpressibleByStringLiteralP", "background"]
+- !private ["s26ExpressibleByStringLiteralP", "foreground"]
+- !private ["s26ExpressibleByStringLiteralP", "style"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "StringBackgroundColorizer"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "StringForegroundColorizer"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "StringStyleColorizer"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "background"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "foreground"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "style"]
+- !private ["s8HashableP", "StringBackgroundColorizer"]
+- !private ["s8HashableP", "StringForegroundColorizer"]
+- !private ["s8HashableP", "StringStyleColorizer"]
+- !private ["s8HashableP", "background"]
+- !private ["s8HashableP", "foreground"]
+- !private ["s8HashableP", "style"]
+- !private ["s25LosslessStringConvertibleP", "StringBackgroundColorizer"]
+- !private ["s25LosslessStringConvertibleP", "StringForegroundColorizer"]
+- !private ["s25LosslessStringConvertibleP", "StringStyleColorizer"]
+- !private ["s25LosslessStringConvertibleP", "background"]
+- !private ["s25LosslessStringConvertibleP", "foreground"]
+- !private ["s25LosslessStringConvertibleP", "style"]
+- !private ["s10MirrorPathP", "StringBackgroundColorizer"]
+- !private ["s10MirrorPathP", "StringForegroundColorizer"]
+- !private ["s10MirrorPathP", "StringStyleColorizer"]
+- !private ["s10MirrorPathP", "background"]
+- !private ["s10MirrorPathP", "foreground"]
+- !private ["s10MirrorPathP", "style"]
+- !private ["So8NSCodingP", "background"]
+- !private ["So8NSCodingP", "foreground"]
+- !private ["So8NSCodingP", "style"]
+- !private ["So9NSCopyingP", "background"]
+- !private ["So9NSCopyingP", "foreground"]
+- !private ["So9NSCopyingP", "style"]
+- !private ["So21NSItemProviderReadingP", "background"]
+- !private ["So21NSItemProviderReadingP", "foreground"]
+- !private ["So21NSItemProviderReadingP", "style"]
+- !private ["So21NSItemProviderWritingP", "background"]
+- !private ["So21NSItemProviderWritingP", "foreground"]
+- !private ["So21NSItemProviderWritingP", "style"]
+- !private ["So16NSMutableCopyingP", "background"]
+- !private ["So16NSMutableCopyingP", "foreground"]
+- !private ["So16NSMutableCopyingP", "style"]
+- !private ["So8NSObjectC", "background"]
+- !private ["So8NSObjectC", "foreground"]
+- !private ["So8NSObjectC", "style"]
+- !private ["So16NSObjectProtocolP", "background"]
+- !private ["So16NSObjectProtocolP", "foreground"]
+- !private ["So16NSObjectProtocolP", "style"]
+- !private ["So14NSSecureCodingP", "background"]
+- !private ["So14NSSecureCodingP", "foreground"]
+- !private ["So14NSSecureCodingP", "style"]
+- !private ["So8NSStringC", "background"]
+- !private ["So8NSStringC", "foreground"]
+- !private ["So8NSStringC", "style"]
+- !private ["s26RangeReplaceableCollectionP", "StringBackgroundColorizer"]
+- !private ["s26RangeReplaceableCollectionP", "StringForegroundColorizer"]
+- !private ["s26RangeReplaceableCollectionP", "StringStyleColorizer"]
+- !private ["s26RangeReplaceableCollectionP", "background"]
+- !private ["s26RangeReplaceableCollectionP", "foreground"]
+- !private ["s26RangeReplaceableCollectionP", "style"]
+- !private ["s8SequenceP", "StringBackgroundColorizer"]
+- !private ["s8SequenceP", "StringForegroundColorizer"]
+- !private ["s8SequenceP", "StringStyleColorizer"]
+- !private ["s8SequenceP", "background"]
+- !private ["s8SequenceP", "foreground"]
+- !private ["s8SequenceP", "style"]
+- ["SS", "StringBackgroundColorizer"]
+- ["SS", "StringForegroundColorizer"]
+- ["SS", "StringStyleColorizer"]
+- ["SS", "b"]
+- ["SS", "background"]
+- ["SS", "f"]
+- ["SS", "foreground"]
+- ["SS", "s"]
+- ["SS", "style"]
+- !private ["SS9SwiftlineE25StringBackgroundColorizerV", "init"]
+- !private ["SS9SwiftlineE25StringForegroundColorizerV", "init"]
+- !private ["s14StringProtocolP", "StringBackgroundColorizer"]
+- !private ["s14StringProtocolP", "StringForegroundColorizer"]
+- !private ["s14StringProtocolP", "StringStyleColorizer"]
+- !private ["s14StringProtocolP", "background"]
+- !private ["s14StringProtocolP", "foreground"]
+- !private ["s14StringProtocolP", "style"]
+- !private ["9Swiftline11StringStyleP", "colorize"]
+- !private ["SS9SwiftlineE20StringStyleColorizerV", "init"]
+- !private ["s16TextOutputStreamP", "StringBackgroundColorizer"]
+- !private ["s16TextOutputStreamP", "StringForegroundColorizer"]
+- !private ["s16TextOutputStreamP", "StringStyleColorizer"]
+- !private ["s16TextOutputStreamP", "background"]
+- !private ["s16TextOutputStreamP", "foreground"]
+- !private ["s16TextOutputStreamP", "style"]
+- !private ["s20TextOutputStreamableP", "StringBackgroundColorizer"]
+- !private ["s20TextOutputStreamableP", "StringForegroundColorizer"]
+- !private ["s20TextOutputStreamableP", "StringStyleColorizer"]
+- !private ["s20TextOutputStreamableP", "background"]
+- !private ["s20TextOutputStreamableP", "foreground"]
+- !private ["s20TextOutputStreamableP", "style"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "StringBackgroundColorizer"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "StringForegroundColorizer"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "StringStyleColorizer"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "background"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "foreground"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "style"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "StringBackgroundColorizer"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "StringForegroundColorizer"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "StringStyleColorizer"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "background"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "foreground"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "style"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "StringBackgroundColorizer"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "StringForegroundColorizer"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "StringStyleColorizer"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "background"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "foreground"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "style"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "StringBackgroundColorizer"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "StringForegroundColorizer"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "StringStyleColorizer"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "background"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "foreground"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "style"]
+- !private ["s33_ExpressibleByStringInterpolationP", "StringBackgroundColorizer"]
+- !private ["s33_ExpressibleByStringInterpolationP", "StringForegroundColorizer"]
+- !private ["s33_ExpressibleByStringInterpolationP", "StringStyleColorizer"]
+- !private ["s33_ExpressibleByStringInterpolationP", "background"]
+- !private ["s33_ExpressibleByStringInterpolationP", "foreground"]
+- !private ["s33_ExpressibleByStringInterpolationP", "style"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "background"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "foreground"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "style"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "background"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "foreground"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "style"]
+- !private ["s21_ObjectiveCBridgeableP", "StringBackgroundColorizer"]
+- !private ["s21_ObjectiveCBridgeableP", "StringForegroundColorizer"]
+- !private ["s21_ObjectiveCBridgeableP", "StringStyleColorizer"]
+- !private ["s21_ObjectiveCBridgeableP", "background"]
+- !private ["s21_ObjectiveCBridgeableP", "foreground"]
+- !private ["s21_ObjectiveCBridgeableP", "style"]
+- !private ["s16_SwiftStringViewP", "StringBackgroundColorizer"]
+- !private ["s16_SwiftStringViewP", "StringForegroundColorizer"]
+- !private ["s16_SwiftStringViewP", "StringStyleColorizer"]
+- !private ["s16_SwiftStringViewP", "background"]
+- !private ["s16_SwiftStringViewP", "foreground"]
+- !private ["s16_SwiftStringViewP", "style"]
+depends-nominal:
+- !private "9Swiftline18ArgConvertibleTypeP"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- "9Swiftline9ColorizerC"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- "SS"
+- !private "SS9SwiftlineE25StringBackgroundColorizerV"
+- !private "SS9SwiftlineE25StringForegroundColorizerV"
+- !private "s14StringProtocolP"
+- !private "9Swiftline11StringStyleP"
+- !private "SS9SwiftlineE20StringStyleColorizerV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "dc19aae21d99c66cdf7ce3f78e032b98"

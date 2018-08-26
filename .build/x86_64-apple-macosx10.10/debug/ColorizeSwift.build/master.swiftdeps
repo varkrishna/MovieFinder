@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "2ce0985d9355cbd078983b06f9a94607"
+build_time: [1535262975, 591527000]
+inputs:
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/ColorizeSwift.git-2340911451578191164/Source/ColorizeSwift.swift": [1535262918, 0]

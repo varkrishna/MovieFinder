@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/ColorizeSwift.build/master.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/ColorizeSwift.git-2340911451578191164/Source/ColorizeSwift.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/ColorizeSwift.build/ColorizeSwift.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/ColorizeSwift.build/ColorizeSwift.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/ColorizeSwift.build/ColorizeSwift~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/ColorizeSwift.build/ColorizeSwift.swiftdeps"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "": {
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/master.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Agree.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Agree.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Agree.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Agree~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Agree.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/AgreeSettings.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AgreeSettings.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AgreeSettings.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AgreeSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AgreeSettings.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/ArgConvertible.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgConvertible.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgConvertible.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgConvertible.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Args.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Args.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Args.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Args~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Args.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/ArgsParser.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgsParser.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgsParser.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgsParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ArgsParser.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Argument.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Argument.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Argument.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Argument~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Argument.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Ask.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Ask.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Ask.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Ask~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Ask.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/AskSettings.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskSettings.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskSettings.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskSettings.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/AskerValidator.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskerValidator.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskerValidator.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskerValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/AskerValidator.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Choose.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Choose.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Choose.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Choose~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Choose.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/ChooseSettings.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ChooseSettings.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ChooseSettings.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ChooseSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ChooseSettings.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Colorizer.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Colorizer.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Colorizer.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Colorizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Colorizer.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/CommandExecutor.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/CommandExecutor.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/CommandExecutor.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/CommandExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/CommandExecutor.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Env.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Env.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Env.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Env~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Env.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Glob.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Glob.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Glob.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Glob~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Glob.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/ProcessInfo.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ProcessInfo.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ProcessInfo.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ProcessInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ProcessInfo.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/PromptPrinter.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptPrinter.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptPrinter.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptPrinter~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptPrinter.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/PromptReader.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptReader.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptReader.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptReader.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/PromptSettings.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptSettings.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptSettings.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/PromptSettings.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/RunResults.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunResults.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunResults.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunResults~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunResults.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/Runner.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Runner.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Runner.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/Runner.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/RunnerSettings.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunnerSettings.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunnerSettings.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunnerSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/RunnerSettings.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/ShortHandRunner.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ShortHandRunner.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ShortHandRunner.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ShortHandRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/ShortHandRunner.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/StringBackgroundColorizer.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringBackgroundColorizer.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringBackgroundColorizer.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringBackgroundColorizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringBackgroundColorizer.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/StringForegroundColorizer.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringForegroundColorizer.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringForegroundColorizer.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringForegroundColorizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringForegroundColorizer.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/StringStyle.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyle.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyle.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyle.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/StringStyleColorizer.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyleColorizer.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyleColorizer.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyleColorizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/StringStyleColorizer.swiftdeps"
+  },
+  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/Swiftline.git-2632472092669193790/Source/TaskPipe.swift": {
+    "dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/TaskPipe.d",
+    "object": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/TaskPipe.swift.o",
+    "swiftmodule": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/TaskPipe~partial.swiftmodule",
+    "swift-dependencies": "/Users/varshney/Desktop/Projects/MovieFinder/.build/x86_64-apple-macosx10.10/debug/Swiftline.build/TaskPipe.swiftdeps"
+  }
+}

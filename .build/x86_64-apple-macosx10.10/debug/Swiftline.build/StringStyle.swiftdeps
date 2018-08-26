@@ -1,0 +1,465 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "startOfCode"
+- "endOfCode"
+- "codesSeperators"
+- "StringStyle"
+- "ForegroundColor"
+- "BackgroundColor"
+- "StringTextStyle"
+provides-nominal:
+- "9Swiftline11StringStyleP"
+- "9Swiftline15ForegroundColorO"
+- "9Swiftline15BackgroundColorO"
+- "9Swiftline15StringTextStyleO"
+provides-member:
+- ["9Swiftline11StringStyleP", ""]
+- ["9Swiftline15ForegroundColorO", ""]
+- ["9Swiftline15BackgroundColorO", ""]
+- ["9Swiftline15StringTextStyleO", ""]
+- ["9Swiftline11StringStyleP", "colorize"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "..<"
+- "=="
+- "AssignmentPrecedence"
+- "BackgroundColor"
+- "Bool"
+- "ForegroundColor"
+- "Int"
+- "String"
+- "StringLiteralType"
+- "StringStyle"
+- "StringTextStyle"
+- "UnicodeScalarType"
+- "codesSeperators"
+- "endOfCode"
+- "startOfCode"
+- !private "~="
+depends-member:
+- !private ["9Swiftline18ArgConvertibleTypeP", "characters"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "contains"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "endIndex"]
+- ["9Swiftline18ArgConvertibleTypeP", "init"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "replacingOccurrences"]
+- !private ["9Swiftline18ArgConvertibleTypeP", "startIndex"]
+- ["9Swiftline15BackgroundColorO", "RawValue"]
+- ["9Swiftline15BackgroundColorO", "_Default_RawValue"]
+- ["9Swiftline15BackgroundColorO", "black"]
+- ["9Swiftline15BackgroundColorO", "blue"]
+- ["9Swiftline15BackgroundColorO", "colorize"]
+- ["9Swiftline15BackgroundColorO", "cyan"]
+- ["9Swiftline15BackgroundColorO", "deinit"]
+- ["9Swiftline15BackgroundColorO", "green"]
+- ["9Swiftline15BackgroundColorO", "hashValue"]
+- ["9Swiftline15BackgroundColorO", "init"]
+- ["9Swiftline15BackgroundColorO", "magenta"]
+- ["9Swiftline15BackgroundColorO", "rawValue"]
+- ["9Swiftline15BackgroundColorO", "red"]
+- ["9Swiftline15BackgroundColorO", "white"]
+- ["9Swiftline15BackgroundColorO", "yellow"]
+- !private ["s23BidirectionalCollectionP", "characters"]
+- !private ["s23BidirectionalCollectionP", "contains"]
+- !private ["s23BidirectionalCollectionP", "endIndex"]
+- !private ["s23BidirectionalCollectionP", "index"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "replacingOccurrences"]
+- !private ["s23BidirectionalCollectionP", "startIndex"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "characters"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "endIndex"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "replacingOccurrences"]
+- !private ["s7CVarArgP", "startIndex"]
+- !private ["s10CollectionP", "characters"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "endIndex"]
+- !private ["s10CollectionP", "index"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "replacingOccurrences"]
+- !private ["s10CollectionP", "startIndex"]
+- !private ["s10ComparableP", "characters"]
+- !private ["s10ComparableP", "contains"]
+- !private ["s10ComparableP", "endIndex"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "replacingOccurrences"]
+- !private ["s10ComparableP", "startIndex"]
+- !private ["So8NSStringC14CompareOptionsV", "literal"]
+- !private ["s28CustomDebugStringConvertibleP", "characters"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "endIndex"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "replacingOccurrences"]
+- !private ["s28CustomDebugStringConvertibleP", "startIndex"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "characters"]
+- !private ["s29CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s29CustomPlaygroundQuickLookableP", "endIndex"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "replacingOccurrences"]
+- !private ["s29CustomPlaygroundQuickLookableP", "startIndex"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "characters"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "endIndex"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "replacingOccurrences"]
+- !private ["s17CustomReflectableP", "startIndex"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "characters"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "endIndex"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "replacingOccurrences"]
+- !private ["s23CustomStringConvertibleP", "startIndex"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "characters"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "endIndex"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "replacingOccurrences"]
+- !private ["s9DecodableP", "startIndex"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "characters"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "endIndex"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "replacingOccurrences"]
+- !private ["s9EncodableP", "startIndex"]
+- ["s9EquatableP", "RawValue"]
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_Default_RawValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "characters"]
+- ["s9EquatableP", "colorize"]
+- !private ["s9EquatableP", "contains"]
+- !private ["s9EquatableP", "endIndex"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "literal"]
+- ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "replacingOccurrences"]
+- !private ["s9EquatableP", "startIndex"]
+- !private ["s25ExpressibleByArrayLiteralP", "literal"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "endIndex"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "startIndex"]
+- !private ["s26ExpressibleByStringLiteralP", "characters"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "endIndex"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "replacingOccurrences"]
+- !private ["s26ExpressibleByStringLiteralP", "startIndex"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "characters"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "endIndex"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "replacingOccurrences"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "startIndex"]
+- ["9Swiftline15ForegroundColorO", "RawValue"]
+- ["9Swiftline15ForegroundColorO", "_Default_RawValue"]
+- ["9Swiftline15ForegroundColorO", "black"]
+- ["9Swiftline15ForegroundColorO", "blue"]
+- ["9Swiftline15ForegroundColorO", "colorize"]
+- ["9Swiftline15ForegroundColorO", "cyan"]
+- ["9Swiftline15ForegroundColorO", "deinit"]
+- ["9Swiftline15ForegroundColorO", "green"]
+- ["9Swiftline15ForegroundColorO", "hashValue"]
+- ["9Swiftline15ForegroundColorO", "init"]
+- ["9Swiftline15ForegroundColorO", "magenta"]
+- ["9Swiftline15ForegroundColorO", "rawValue"]
+- ["9Swiftline15ForegroundColorO", "red"]
+- ["9Swiftline15ForegroundColorO", "white"]
+- ["9Swiftline15ForegroundColorO", "yellow"]
+- ["s8HashableP", "RawValue"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_Default_RawValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "characters"]
+- ["s8HashableP", "colorize"]
+- !private ["s8HashableP", "contains"]
+- !private ["s8HashableP", "endIndex"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "rawValue"]
+- !private ["s8HashableP", "replacingOccurrences"]
+- !private ["s8HashableP", "startIndex"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "characters"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- !private ["s25LosslessStringConvertibleP", "endIndex"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "replacingOccurrences"]
+- !private ["s25LosslessStringConvertibleP", "startIndex"]
+- !private ["s10MirrorPathP", "characters"]
+- !private ["s10MirrorPathP", "contains"]
+- !private ["s10MirrorPathP", "endIndex"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "replacingOccurrences"]
+- !private ["s10MirrorPathP", "startIndex"]
+- !private ["So8NSCodingP", "characters"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "endIndex"]
+- !private ["So8NSCodingP", "replacingOccurrences"]
+- !private ["So8NSCodingP", "startIndex"]
+- !private ["So9NSCopyingP", "characters"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "endIndex"]
+- !private ["So9NSCopyingP", "replacingOccurrences"]
+- !private ["So9NSCopyingP", "startIndex"]
+- !private ["So21NSItemProviderReadingP", "characters"]
+- !private ["So21NSItemProviderReadingP", "contains"]
+- !private ["So21NSItemProviderReadingP", "endIndex"]
+- !private ["So21NSItemProviderReadingP", "replacingOccurrences"]
+- !private ["So21NSItemProviderReadingP", "startIndex"]
+- !private ["So21NSItemProviderWritingP", "characters"]
+- !private ["So21NSItemProviderWritingP", "contains"]
+- !private ["So21NSItemProviderWritingP", "endIndex"]
+- !private ["So21NSItemProviderWritingP", "replacingOccurrences"]
+- !private ["So21NSItemProviderWritingP", "startIndex"]
+- !private ["So16NSMutableCopyingP", "characters"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "endIndex"]
+- !private ["So16NSMutableCopyingP", "replacingOccurrences"]
+- !private ["So16NSMutableCopyingP", "startIndex"]
+- !private ["So8NSObjectC", "characters"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "endIndex"]
+- !private ["So8NSObjectC", "replacingOccurrences"]
+- !private ["So8NSObjectC", "startIndex"]
+- !private ["So16NSObjectProtocolP", "characters"]
+- !private ["So16NSObjectProtocolP", "contains"]
+- !private ["So16NSObjectProtocolP", "endIndex"]
+- !private ["So16NSObjectProtocolP", "replacingOccurrences"]
+- !private ["So16NSObjectProtocolP", "startIndex"]
+- !private ["So14NSSecureCodingP", "characters"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "endIndex"]
+- !private ["So14NSSecureCodingP", "replacingOccurrences"]
+- !private ["So14NSSecureCodingP", "startIndex"]
+- !private ["So8NSStringC", "characters"]
+- !private ["So8NSStringC", "contains"]
+- !private ["So8NSStringC", "endIndex"]
+- !private ["So8NSStringC", "replacingOccurrences"]
+- !private ["So8NSStringC", "startIndex"]
+- !private ["s9OptionSetP", "literal"]
+- !private ["s26RangeReplaceableCollectionP", "characters"]
+- !private ["s26RangeReplaceableCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "endIndex"]
+- !private ["s26RangeReplaceableCollectionP", "index"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "replacingOccurrences"]
+- !private ["s26RangeReplaceableCollectionP", "startIndex"]
+- ["s16RawRepresentableP", "RawValue"]
+- ["s16RawRepresentableP", ""]
+- ["s16RawRepresentableP", "_Default_RawValue"]
+- ["s16RawRepresentableP", "colorize"]
+- ["s16RawRepresentableP", "hashValue"]
+- ["s16RawRepresentableP", "init"]
+- !private ["s16RawRepresentableP", "literal"]
+- ["s16RawRepresentableP", "rawValue"]
+- !private ["s8SequenceP", "characters"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "endIndex"]
+- !private ["s8SequenceP", "index"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "replacingOccurrences"]
+- !private ["s8SequenceP", "startIndex"]
+- !private ["s10SetAlgebraP", "literal"]
+- !private ["SS", "characters"]
+- !private ["SS", "contains"]
+- !private ["SS", "endIndex"]
+- ["SS", "init"]
+- !private ["SS", "replacingOccurrences"]
+- !private ["SS", "startIndex"]
+- !private ["s14StringProtocolP", "characters"]
+- !private ["s14StringProtocolP", "contains"]
+- !private ["s14StringProtocolP", "endIndex"]
+- ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "replacingOccurrences"]
+- !private ["s14StringProtocolP", "startIndex"]
+- ["9Swiftline11StringStyleP", "Bool"]
+- ["9Swiftline11StringStyleP", "Int"]
+- ["9Swiftline11StringStyleP", "RawValue"]
+- ["9Swiftline11StringStyleP", "String"]
+- ["9Swiftline11StringStyleP", ""]
+- ["9Swiftline11StringStyleP", "_Default_RawValue"]
+- !private ["9Swiftline11StringStyleP", "addCommandSeperators"]
+- ["9Swiftline11StringStyleP", "colorize"]
+- !private ["9Swiftline11StringStyleP", "colorizeStringAndAddCodeSeperators"]
+- !private ["9Swiftline11StringStyleP", "colorizeStringWithoutPriorCode"]
+- !private ["9Swiftline11StringStyleP", "endOfCode"]
+- !private ["9Swiftline11StringStyleP", "endingColorCode"]
+- !private ["9Swiftline11StringStyleP", "hasAnyStyleCode"]
+- ["9Swiftline11StringStyleP", "hashValue"]
+- ["9Swiftline11StringStyleP", "init"]
+- !private ["9Swiftline11StringStyleP", "preparedColorCode"]
+- ["9Swiftline11StringStyleP", "rawValue"]
+- !private ["9Swiftline11StringStyleP", "removeEndingCode"]
+- !private ["9Swiftline11StringStyleP", "startOfCode"]
+- ["9Swiftline15StringTextStyleO", "RawValue"]
+- ["9Swiftline15StringTextStyleO", "_Default_RawValue"]
+- ["9Swiftline15StringTextStyleO", "bold"]
+- ["9Swiftline15StringTextStyleO", "boldOff"]
+- ["9Swiftline15StringTextStyleO", "colorize"]
+- ["9Swiftline15StringTextStyleO", "deinit"]
+- ["9Swiftline15StringTextStyleO", "hashValue"]
+- ["9Swiftline15StringTextStyleO", "init"]
+- ["9Swiftline15StringTextStyleO", "inverse"]
+- ["9Swiftline15StringTextStyleO", "inverseOff"]
+- ["9Swiftline15StringTextStyleO", "italic"]
+- ["9Swiftline15StringTextStyleO", "italicOff"]
+- ["9Swiftline15StringTextStyleO", "rawValue"]
+- ["9Swiftline15StringTextStyleO", "reset"]
+- ["9Swiftline15StringTextStyleO", "strikethrough"]
+- ["9Swiftline15StringTextStyleO", "strikethroughOff"]
+- ["9Swiftline15StringTextStyleO", "underline"]
+- ["9Swiftline15StringTextStyleO", "underlineOff"]
+- !private ["s16TextOutputStreamP", "characters"]
+- !private ["s16TextOutputStreamP", "contains"]
+- !private ["s16TextOutputStreamP", "endIndex"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "replacingOccurrences"]
+- !private ["s16TextOutputStreamP", "startIndex"]
+- !private ["s20TextOutputStreamableP", "characters"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- !private ["s20TextOutputStreamableP", "endIndex"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "replacingOccurrences"]
+- !private ["s20TextOutputStreamableP", "startIndex"]
+- !private ["SS14_CharacterViewV", "index"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "endIndex"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "startIndex"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "characters"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "endIndex"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "replacingOccurrences"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "startIndex"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "characters"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "contains"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "endIndex"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "replacingOccurrences"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "startIndex"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "characters"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "endIndex"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "replacingOccurrences"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "startIndex"]
+- !private ["s33_ExpressibleByStringInterpolationP", "characters"]
+- !private ["s33_ExpressibleByStringInterpolationP", "contains"]
+- !private ["s33_ExpressibleByStringInterpolationP", "endIndex"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "replacingOccurrences"]
+- !private ["s33_ExpressibleByStringInterpolationP", "startIndex"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "characters"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "endIndex"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "replacingOccurrences"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "startIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "characters"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "replacingOccurrences"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "characters"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "endIndex"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "replacingOccurrences"]
+- !private ["s21_ObjectiveCBridgeableP", "startIndex"]
+- !private ["s16_SwiftStringViewP", "characters"]
+- !private ["s16_SwiftStringViewP", "contains"]
+- !private ["s16_SwiftStringViewP", "endIndex"]
+- !private ["s16_SwiftStringViewP", "index"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "replacingOccurrences"]
+- !private ["s16_SwiftStringViewP", "startIndex"]
+depends-nominal:
+- "9Swiftline18ArgConvertibleTypeP"
+- "9Swiftline15BackgroundColorO"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- !private "So8NSStringC14CompareOptionsV"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "9Swiftline15ForegroundColorO"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "s8SequenceP"
+- !private "s10SetAlgebraP"
+- "SS"
+- "s14StringProtocolP"
+- "9Swiftline11StringStyleP"
+- "9Swiftline15StringTextStyleO"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "SS14_CharacterViewV"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "d82dad21da83e9fcd96aba856633c0a1"
