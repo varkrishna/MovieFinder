@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "b5bee3f3256ee46cefe048aa7a81306a"
-build_time: [1535280732, 115890000]
-inputs:
-  "/Users/varshney/Desktop/Projects/MovieFinder/Sources/MovieFinder/main.swift": [1535280723, 0]

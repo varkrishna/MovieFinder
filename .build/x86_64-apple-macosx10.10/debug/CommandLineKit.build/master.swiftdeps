@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "2aabe6b1efb62c3f85a5f83029755d8a"
-build_time: [1535262975, 591145000]
-inputs:
-  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/CommandLine-2650396103741080200/CommandLineKit/CommandLine.swift": [1535262917, 0]
-  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/CommandLine-2650396103741080200/CommandLineKit/Option.swift": [1535262917, 0]
-  "/Users/varshney/Desktop/Projects/MovieFinder/.build/checkouts/CommandLine-2650396103741080200/CommandLineKit/StringExtensions.swift": [1535262917, 0]
