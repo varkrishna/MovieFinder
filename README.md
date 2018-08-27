@@ -23,7 +23,7 @@ After **swift build** command you can copy executable **MovieFinder** from **.bu
 
  
 ## Options
-Write now it supports only one option **-t** and it accepts folder path of movies 
+Right now it supports only one option **-t** and it accepts folder path of movies 
 
 ## Output
 
@@ -31,7 +31,7 @@ It creates a text file named **result.txt** in same folder of movies. And that f
 **All movies that are failed to recognize will have rating 0.0**
 
 ## Example of output
-Toy Story 3  = 8.3 
+Toy Story 3  = 8.3
 Inside Out  = 8.2 
 Secret Superstar  = 8.1 
 Shaadi Mein Zaroor Aana  = 7.9 
